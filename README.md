@@ -19,4 +19,4 @@
 ## 📫 Contact
 
 - Email: seola8268@naver.com  
-- GitHub: (https://github.com/yunseola) 
+- GitHub: https://github.com/yunseola
