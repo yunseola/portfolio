@@ -11,9 +11,7 @@
 
 | 프로젝트명 | 설명 | 기술 스택 |
 |------------|------|------------|
-| **대학 중도탈락률 감소**(https://github.com/yunseola/college-dropout-prediction/tree/main) | 대학 공공 데이터를 바탕으로 중도탈락률을 예측하고, Random Forest와 Decision Tree 모델을 활용해
-중도 이탈에 영향을 주는 주요 변수의 중요도와 상관관계를 분석했습니다.
-분석 결과를 바탕으로 대학의 개선 방향과 정책적 시사점을 도출한 프로젝트입니다. | Python, scikit-learn, Matplotlib, Graphviz, PDPbox |
+| [**대학 중도탈락률 감소**](https://github.com/yunseola/college-dropout-prediction/tree/main) | 대학 공공 데이터를 바탕으로 중도탈락률을 예측하고, Random Forest와 Decision Tree 모델을 활용해 중도 이탈에 영향을 주는 주요 변수의 중요도와 상관관계를 분석했습니다. 분석 결과를 바탕으로 대학의 개선 방향과 정책적 시사점을 도출한 프로젝트입니다. | Python, scikit-learn, Matplotlib, Graphviz, PDPbox |
 | **[프로젝트 B]** | [데이터 분석 중심 프로젝트 예시] | Python, Pandas, Matplotlib |
 | **[프로젝트 C]** | [웹 프론트 연습용 or 팀 프로젝트] | HTML, CSS, JavaScript, Vue |
 
