@@ -64,7 +64,7 @@ QR/링크 기반 명함 공유 등 다양한 기능을 제공합니다.
 Kotlin, Android Studio, CameraX, Google ML Kit, Clova OCR, OpenAI API, Spring Boot
 
 **바로 가기**  
-🔗 GitHub Repository (레포 주소에 맞게 수정)
+🔗 [GitHub Repository](https://github.com/yunseola/Business-Card-Management-App)
 
 ---
 
