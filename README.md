@@ -50,6 +50,50 @@ Vue, Django, SQLite
 **바로 가기**  
 🔗 [GitHub Repository](https://github.com/yunseola/Trust_Me/tree/main)
 
+---
+
+### 04. 📇 명함.zip – Business Card Management App
+
+**설명**  
+종이 명함의 보관 불편함과 수정 불가 문제를 해결하기 위해 개발한 모바일 명함 앱입니다.  
+CameraX + OCR 기반 명함 스캔, AI 요약 기능(OpenAI API), 전화 수신 시 명함 팝업 표시,  
+QR/링크 기반 명함 공유 등 다양한 기능을 제공합니다.
+
+**기술 스택**  
+Kotlin, Android Studio, CameraX, Google ML Kit, Clova OCR, OpenAI API, Spring Boot
+
+**바로 가기**  
+🔗 GitHub Repository (레포 주소에 맞게 수정)
+
+---
+
+### 05. 👁️ Lookey – 시각장애인 편의점 안내 서비스
+
+**설명**  
+시각장애인의 편의점 상품 인식을 돕기 위한 AI 기반 음성 안내 서비스입니다.  
+YOLOv8 탐지 + EfficientNet/MobileNet 분류 모델을 결합해  
+9종 편의점 음료를 실시간 탐지하고 위치 정보를 안내합니다.
+
+**기술 스택**  
+YOLOv8, EfficientNet, MobileNetV3, Python, OpenCV, Albumentations, Android
+
+**바로 가기**  
+🔗 https://github.com/yunseola/lookey-vision-app
+
+---
+
+### 06. 🏭 SmartFactory PiCar System – 인덕터 자동 분류 스마트팩토리
+
+**설명**  
+Raspberry Pi 기반 라인트래킹 자율주행, YOLOv8 비전 모델, PCA9685 로봇팔을 이용해  
+인덕터를 실시간 탐지 → 주행 → 집기 → 분류하는 스마트팩토리 자동화 시스템입니다.  
+컨베이어–주행–AI–로봇팔까지 End-to-End 전체 플로우를 직접 설계했습니다.
+
+**기술 스택**  
+Raspberry Pi, PiCamera2, YOLOv8, OpenCV, PCA9685, Python, gpiozero
+
+**바로 가기**  
+🔗 https://github.com/yunseola/smartfactory-picar-system
 
 
 ## 📫 Contact
